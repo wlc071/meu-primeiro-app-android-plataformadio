@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Dio App</string>
+    <string name="desafio_internacionalizacao">DIO Challenge - Internationalization</string>
+</resources>

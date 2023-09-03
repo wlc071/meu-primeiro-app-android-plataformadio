@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的 Dio 應用程序</string>
+    <string name="desafio_internacionalizacao">DIO 挑戰 - 國際化</string>
+</resources>
